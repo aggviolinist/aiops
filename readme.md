@@ -18,3 +18,4 @@
 2. source aiops-env/bin/activate
 3. pip install pandas
 4. pip install scikit-learn
+5. python3 aiops_log_analysis.py
