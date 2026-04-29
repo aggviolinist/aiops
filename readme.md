@@ -11,3 +11,10 @@
 1. git remote add origin https://github.com/aggviolinist/aiops.git
 2. git branch -M main
 3. git push -u origin main
+4. git remote set-url origin https://aggviolinist:tokenxxxxxxxxxxxxxxxx@github.com/aggviolinist/aiops.git
+
+## Selecting the environment for python
+1. python3 -m venv aiops-env
+2. source aiops-env/bin/activate
+3. pip install pandas
+4. pip install scikit-learn
