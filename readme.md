@@ -1,5 +1,5 @@
 ## AI OPS flow
-> ![Alt text](output-image/logs.png.png?raw=true "The architecture diagram")
+> ![Alt text](output-image/logs.png?raw=true "The architecture diagram")
 
 ## Create a new repository on the command line
 1. touch README.md
