@@ -28,3 +28,9 @@
 3. pip install pandas
 4. pip install scikit-learn
 5. python3 aiops_log_analysis.py
+
+## SSH using Jumpbox to an instance
+1. eval $(ssh-agent -s)
+2. ssh-add test-instance-key.pem
+3. ssh -A ec2-user@jumpbox.public.ip
+4. ssh ec2-user@private.instance.ip
